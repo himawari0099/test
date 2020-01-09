@@ -7,3 +7,7 @@ TokimekiMap
 
 ## サイト説明
 説明文
+### ポイント
+* aaa
+* bbb
+* ccc
